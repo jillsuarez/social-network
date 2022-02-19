@@ -5,13 +5,14 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "express": "^4.17.1",
-      "mongoose": "^5.9.7"
+        "express": "^4.17.1",
+        "mongoose": "^5.9.7",
+        "mongosh": "^1.1.9"
     }
-  }
+}
